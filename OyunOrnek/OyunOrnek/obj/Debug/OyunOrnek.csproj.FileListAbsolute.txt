@@ -1,0 +1,10 @@
+C:\Users\Ali Ozan\source\repos\OyunOrnek\OyunOrnek\bin\Debug\OyunOrnek.exe.config
+C:\Users\Ali Ozan\source\repos\OyunOrnek\OyunOrnek\bin\Debug\OyunOrnek.exe
+C:\Users\Ali Ozan\source\repos\OyunOrnek\OyunOrnek\bin\Debug\OyunOrnek.pdb
+C:\Users\Ali Ozan\source\repos\OyunOrnek\OyunOrnek\obj\Debug\OyunOrnek.csproj.AssemblyReference.cache
+C:\Users\Ali Ozan\source\repos\OyunOrnek\OyunOrnek\obj\Debug\OyunOrnek.AnaSayfa.resources
+C:\Users\Ali Ozan\source\repos\OyunOrnek\OyunOrnek\obj\Debug\OyunOrnek.Properties.Resources.resources
+C:\Users\Ali Ozan\source\repos\OyunOrnek\OyunOrnek\obj\Debug\OyunOrnek.csproj.GenerateResource.cache
+C:\Users\Ali Ozan\source\repos\OyunOrnek\OyunOrnek\obj\Debug\OyunOrnek.csproj.CoreCompileInputs.cache
+C:\Users\Ali Ozan\source\repos\OyunOrnek\OyunOrnek\obj\Debug\OyunOrnek.exe
+C:\Users\Ali Ozan\source\repos\OyunOrnek\OyunOrnek\obj\Debug\OyunOrnek.pdb
